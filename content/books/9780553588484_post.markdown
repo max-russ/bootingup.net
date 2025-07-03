@@ -1,0 +1,8 @@
+---
+title: "A Game of Thrones"
+date: 2025-07-03 10:28:56 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780553588484  | George R. R. Martin| August 16, 2005| 835| |https://openlibrary.org/books/OL7830295M/A_Game_of_Thrones|    
