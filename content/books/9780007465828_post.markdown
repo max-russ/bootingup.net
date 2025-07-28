@@ -1,0 +1,8 @@
+---
+title: "Clash of Kings"
+date: 2025-07-28 13:44:00 -0700
+---
+
+| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
+| ----------- | ------------ | ------- | -------- | -------------- | ----- |
+| 9780007465828  | George R. R. Martin| Mar 01, 2012| 928| |https://openlibrary.org/books/OL32491694M/Clash_of_Kings|    
