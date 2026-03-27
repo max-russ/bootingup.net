@@ -1,8 +1,0 @@
----
-title: "Iron Hands"
-date: 2025-07-03 10:28:54 -0700
----
-
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9781844160945  | Jonathan Green| August 31, 2004| 416| |https://openlibrary.org/books/OL8953613M/Iron_Hands|    

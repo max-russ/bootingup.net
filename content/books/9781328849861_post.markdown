@@ -1,8 +1,0 @@
----
-title: Man in the High Castle (Tie-In)
-date: 2024-09-19 19:02:54 -0700
----
-
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9781328849861  | Philip K. Dick| 2017| 288| |https://openlibrary.org/books/OL28855785M/Man_in_the_High_Castle_(Tie-In)|    

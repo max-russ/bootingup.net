@@ -1,8 +1,0 @@
----
-title: "The Fires of Heaven"
-date: 2025-09-02 15:36:23 -0700
----
-
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9781250251947  | Robert Jordan| Dec 31, 2019| 944| |https://openlibrary.org/books/OL28171334M/The_Fires_of_Heaven|    

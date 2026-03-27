@@ -1,8 +1,0 @@
----
-title: "Cryptonomicon"
-date: 2025-07-03 10:28:55 -0700
----
-
-| ISBN        | Authors      | Year    | Pages    | Description    | URL   |
-| ----------- | ------------ | ------- | -------- | -------------- | ----- |
-| 9780061792571  | Neal Stephenson| 2003| | |https://openlibrary.org/books/OL24274160M/Cryptonomicon|    

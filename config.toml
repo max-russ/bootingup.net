@@ -1,6 +1,6 @@
 baseurl = "https://www.bootingup.net/" 
 title = "Bootingup.net"
-author = "Peeanio"
+author = "Max Russell"
 theme = ["ananke"]
 SectionPagesMenu = "main"
 renderer.unsafe = true
@@ -14,4 +14,4 @@ mainSections = ["post"]
 
 [[params.ananke_socials]]
 name = "github"
-url = "https://github.com/Peeanio"
+url = "https://github.com/max-russ"
