@@ -11,8 +11,3 @@ Check out my code and projects at git.bootingup.net too.
 
 Thanks for visiting, feel free to ask questions!
 
-![A Plus Cert](/media/aplus.jpg)
-
-![Network Plus Cert](/media/networkplus.jpg)
-
-![Linux Foundation Certified Sysadmin](/media/lfcs.png)
