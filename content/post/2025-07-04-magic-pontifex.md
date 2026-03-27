@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Magic Pontifex"
+date: 2025-07-04 00:00:00 -0700
+categories: Blog update
+---
+
+I recently read Cryptonomicon, a novel by Neal Stephenson, where one of the characters develops a cryptosystem, Pontifex, based on a deck of playing cards. In reality, Bruce Schnieder made the system, and is a symmetric key system stream cipher, and while slow appears robust. I haven't put in time to investigate the system for flaws or weaknesses, but I had a thought: what about a similar encryption system for use with a deck of Magic: The Gathering cards. There are some facets to this system that put restrictions on key creation. Depending on the format, MTG decks can have multiples of cards; the format Commander only allows single copies of cards (except for lands), and is a 99 card deck, increasing the key size. A useful deck would likely need more than one basic land, but not nessicarily; there may be a way to allow multiple basic lands by means of having different printings of each land. Pontifex uses the value of each card in the system, and each card is only printed a single time in each deck of cards. With thousands of MTG cards, it may be impractical to have each card have a unique value associated with it, except cards printed after a certain date (the majority) have a collector number associated with it. Each set of cards has collector number 1-(number of cards in the set), as so by prefixing the set number (by release date), there would be a unique number for each card, to be added and modularlly added to the plaintext to retrieve the ciphertext. This may be completely overbuilt and impractical, as it would be extrememly tedious to do by hand, but exploring the crytographic properties is interesting.
